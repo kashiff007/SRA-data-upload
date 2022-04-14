@@ -59,5 +59,5 @@ Go to New Submission and fill:
 
     ![plot](images/b2.png) 
     
-- Select Submit automatically after fillin this last table.
+- Select Submit automatically after filling this last table.
 ### DONE!
