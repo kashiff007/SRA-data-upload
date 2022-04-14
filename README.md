@@ -1,4 +1,4 @@
-# SRA-data-upload
+## SRA-data-upload
 
 go to subbmission portal
 [SRA subbmission portal] (https://submit.ncbi.nlm.nih.gov/subs/sra/)
@@ -50,4 +50,5 @@ Go to New Submission and fill:
 6. SRA METADATA
 ⋅⋅* Here most of the columns will have option of selection and you will have no problem of duplication. Fill the sample name exact same from last table from BIOSAMPLE ATTRIBUTE. Fill the corresponding file names.
     ![plot](/Users/nawazk/b2.png?raw=true "Example") 
-⋅⋅* Select Submit automatically after fillinf this last table.
+⋅⋅* Select Submit automatically after fillin this last table.
+### DONE!
