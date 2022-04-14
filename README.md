@@ -21,7 +21,7 @@ username, password and ftp site will be provided by SRA FTP site.
 Go to folder as instructed by SRA FTR site:
 
 ```pyhton
-cd uploads/manuel.aranda_kaust.edu.sa_OirvKLRg/new_folder/
+cd uploads/kashif.nawaz_kaust.edu.sa_OirvKLRg/new_folder/
 ```
 
 Upload all fastq.gz files from the folder
