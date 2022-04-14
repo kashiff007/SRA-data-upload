@@ -32,12 +32,12 @@ mput *fastq.gz
 
 Go to New Submission and fill:
 1. SUBMITTER 
-    ![plot](/Users/nawazk/b3.png?raw=true "Example")  
+    ![plot](images/b3.png?raw=true "Example")  
     
 2. GENERAL INFO
 ⋅⋅* Select BioProject and BioSample as "NO" if your submission is new and not related to any existing project.
 ⋅⋅* Fill release date
-    ![plot](/Users/nawazk/b4.png?raw=true "Example")
+    ![plot](/Users/nawazk/b4.png)
 3. PROJECT INFO 
 
 4. BIOSAMPLE TYPE
